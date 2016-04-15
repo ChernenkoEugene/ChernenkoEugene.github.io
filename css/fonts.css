@@ -1,0 +1,25 @@
+
+/* font-family: "NautilusPompiliusRegular"; */
+@font-face {
+  font-family: "NautilusPompiliusRegular";
+  src: url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot");
+  src: url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot?#iefix")format("embedded-opentype"),
+  url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff") format("woff"),
+  url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Billabong";
+  src: url("../fonts/Billabong/Billabong.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Pacifico";
+  src: url("../fonts/Pacifico/Pacifico.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
