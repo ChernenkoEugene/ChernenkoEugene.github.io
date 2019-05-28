@@ -856,7 +856,7 @@ var AlphaNumPipe = /** @class */ (function () {
 __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "API_CONFIG", function() { return API_CONFIG; });
 var API_CONFIG = {
-    BASE_URL: 'http://www.omdbapi.com/',
+    BASE_URL: 'https://www.omdbapi.com/',
     SEARCH_PARAMETER_TITLE: 't',
     API_KEY: 'de14e9fd'
 };
