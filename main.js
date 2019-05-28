@@ -153,8 +153,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var routes = [
-    { path: '', redirectTo: '/movies', pathMatch: 'full' },
-    { path: 'movies', component: _components_movies_movies_component__WEBPACK_IMPORTED_MODULE_3__["MoviesComponent"] },
+    { path: '', component: _components_movies_movies_component__WEBPACK_IMPORTED_MODULE_3__["MoviesComponent"] }
 ];
 var AppRoutingModule = /** @class */ (function () {
     function AppRoutingModule() {
