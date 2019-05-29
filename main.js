@@ -428,7 +428,7 @@ var MoviesComponent = /** @class */ (function () {
     MoviesComponent.prototype.closePopup = function () {
         this.popup.open = false;
     };
-    MoviesComponent.prototype.OnDestroy = function () {
+    MoviesComponent.prototype.ngOnDestroy = function () {
         this.moviesSubscription.unsubscribe();
     };
     MoviesComponent = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
